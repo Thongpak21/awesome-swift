@@ -776,7 +776,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [CameraKit-iOS](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 * [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture.
-
+* [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 ##### Barcode
 *Barcode, QR-code, other code readers* [back to top](#readme) 
 
